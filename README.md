@@ -86,4 +86,10 @@ There are some options for funding to attend conferences if you are not able to 
 - [A list of tech conferences that provide diversity travel grants/scholarships](https://github.com/fvcproductions/diversify-me)
 - [Google Travel and Conference Grants](https://buildyourfuture.withgoogle.com/scholarships/google-travel-and-conference-grants/#!?detail-content-tabby_activeEl=overview)
 - O'Reilly offers diversity scholarhips for [three of their conferences](https://www.oreilly.com/conferences/diversity-application.csp)
-- If you have any other suggestons, please let us know by opening an issue or sending an email to info@wimlds.org!
+- If you have any other suggestons, please let me know by opening an issue or sending an email to gyanprakash.tech@gmail.com
+
+<p align="center">
+Note: Made with :heart:<br>
+Star :star: this repo <br>
+Copyrights | Gyan 
+</p>
