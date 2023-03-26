@@ -60,6 +60,14 @@ Let me know if we missed any important conference here!
 | [Deep Learning World]() | June 18-22, 2023 | Las Vegas, USA |  | www.deeplearningworld.com |
 | [International Conference on Machine Learning (ICML 2023)]() | July 23-29, 2023 | Hawaii, USA | | www.icml.cc/Conferences/2023 |
 
+
+
+## Major Machine Learning Conferences in India-2023
+
+| Event   | Date  | Location | CFP Deadline | Website | Code of Conduct | Note | Status | 
+|----|----|----|----|----|----|-----|----| 
+
+
  
 **Bonus**: *If you're looking for a paper with code, you can visit*: www.paperswithcode.com
 
