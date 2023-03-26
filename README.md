@@ -6,9 +6,51 @@
 
 | Event   | Date  | Location | CFP Deadline | Website | Code of Conduct | Note |
 |----|----|----|----|----|----|-----|
-|
+| [
+
+## List of great ML/AI conferences!
+
+Hello folks! 
+Let me know if we missed any important conference here!
+
+### [Machine learning]()
+
+ - [NeurIPS-Conference on Neural Information Processing Systems]()
+ - [ICML-International Conference on Machine Learning]()
+ - [ICLR-International Conference on Learning Representations]()
+
+### [Computer vision]()
+
+ - [CVPR]()
+ - [ICCV]()
+ - [ECCV]()
 
 
+### [Natural language processing]()
+
+ - [ACL]() 
+ - [NAACL]()
+ - [EMNLP]()
+ - [Data]()
+ - [KDD]()
+ - [CIKM]()
+ - [ICDM]()
+ - [SDM]()
+ - [PAKDD]()
+ - [PKDD/ECML]()
+ - [RECSYS]()
+ - [SIGIR]()
+ - [WWW]()
+ - [WSDM]()
+
+### [Artificial intelligence]()
+
+ - [AAAI]()
+ - [AISTATS]()
+ - [ICANN]()
+ - [IJCAI]()
+ - [UAI]()
+**Bonus**: *If you're looking for a paper with code, you can visit*: www.paperswithcode.com
 
 ## Additional conference lists
 
