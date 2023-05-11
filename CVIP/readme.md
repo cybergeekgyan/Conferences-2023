@@ -12,3 +12,5 @@ Organized by IIT-JAMMU
 
 
 ## IMPORTANT DATES
+
+- Deadline for 1st round submission is extended to 15th May, 2023
